@@ -1,4 +1,4 @@
-# RaBe NUT Image
+# RaBe Icecast Image
 
 [Icecast](https://icecast.org/) container image based on [RaBe UBI9 Minimal](https://github.com/radiorabe/container-image-ubi9-minimal).
 
